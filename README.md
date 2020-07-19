@@ -8,7 +8,7 @@ The file "run_analysis.R" can be run in R through source("run_analysis.R") once 
 
 There is a codebook available which specifies what each column name means in the cleaned data sets (coodebook.md).
 
-## Functions of analysis.R
+## Functions of run_analysis.R
 
 1. Takes the X_train.txt and X_test.txt data and separates out the recorded measurements (561 measurements per record).
 2. Selects the relevant mean and std deviation values (by use of the grep command)

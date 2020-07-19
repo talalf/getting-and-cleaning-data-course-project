@@ -1,6 +1,10 @@
 # Getting and Cleaning Data Course Project
 
-The file "run_analysis.R" can be run in R through source("run_analysis.R") once the working directory is set as the main directory of the repository. 
+The file "run_analysis.R" can be run in R through source("run_analysis.R") once the working directory is set as the main directory of the repository. Clone the entire directory and run the following in R:
+
+``` {R}
+  source("run_analysis.R")
+```
 
 There is a codebook available which specifies what each column name means in the cleaned data sets (coodebook.md).
 
